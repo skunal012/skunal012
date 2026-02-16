@@ -126,6 +126,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skunal012&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="top languages"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skunal012&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="activity graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=skunal012&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="96%" alt="github trophies"/>
+</div>
+
 ## 🔥 Recent Projects
 
 <div align="center">
