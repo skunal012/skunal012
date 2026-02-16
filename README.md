@@ -24,8 +24,9 @@
 - 🔭 Full-Stack Developer with 5+ years of experience in scalable backend and frontend systems
 - 🌱 Core stack: **C#, .NET Core, ASP.NET Core, React.js, and TypeScript**
 - 💬 Focused on clean architecture, maintainable code, and Agile delivery
+- 🤝 Open to **freelance projects** and **remote roles**
+- 🚀 Available to build APIs, web apps, and full-stack business solutions
 - 📧 Reach me at: **skunal012@gmail.com**
-- 📱 Call me at: **+91 90150 62543**
 - 🌐 Based in **Dubai, United Arab Emirates**
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -119,19 +120,15 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skunal012&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=skunal012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="github stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=skunal012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="github stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skunal012&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="top languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=skunal012&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="top languages"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=skunal012&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="activity graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skunal012&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="96%" alt="github trophies"/>
 </div>
 
 ## 🔥 Recent Projects
