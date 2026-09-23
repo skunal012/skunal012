@@ -1,169 +1,141 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/08/86/49/54/360_F_886495498_14NHE9pzw6B7SGoU5Sxb4leA8gpXYDpz.jpg)](https://github.com/skunal012)
+```
+$ whoami
+```
 
-<div align="center" style="background: transparent;">
-  <img style="background: transparent;" src="./output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
+<h1 align="center"> Hi there, I'm <a href="https://github.com/skunal012">Kunal</a> 👋</h1>
 
-# 👨‍💻 Kunal
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&lines=Certified+Professional+Scrum+Developer+(PSD);Full-Stack+Developer+(.NET+Core+%7C+ASP.NET+Core+%7C+React);Dubai,+United+Arab+Emirates" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C%23-Professional-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-Professional-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-Professional-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Database-MS_SQL_Server+PostgreSQL+MongoDB-2F855A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</div>
-
-<img align="right" alt="Coding" width="400" src="https://webixnet.com/wp-content/uploads/2022/09/97639-coding.gif"/>
-
-## 🚀 About Me
-
-- 🔭 Full-Stack Developer with 5+ years of experience in scalable backend and frontend systems
-- 🌱 Core stack: **C#, .NET Core, ASP.NET Core, React.js, and TypeScript**
-- 💬 Focused on clean architecture, maintainable code, and Agile delivery
-- 🤝 Open to **freelance projects** and **remote roles**
-- 🚀 Available to build APIs, web apps, and full-stack business solutions
-- 📧 Reach me at: **skunal012@gmail.com**
-- 🌐 Based in **Dubai, United Arab Emirates**
-
-<h2 align="center">🛠️ Tech Stack</h2>
-<p>
-  <i>
-    Backend: C#, .NET Core, ASP.NET Core, GraphQL.
-    Frontend: React, Redux, TypeScript.
-    Databases: MS SQL Server, PostgreSQL, MongoDB.
-    DevOps: Azure DevOps, GitHub Actions, Jenkins.
-  </i>
-</p>
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=950&lines=Backend+Development+%7C+Frontend+Development+%7C+DevOps;C%23+%7C+.NET+Core+%7C+ASP.NET+Core+%7C+React+%7C+GraphQL;SOLID+%7C+DDD+%7C+DRY+%7C+KISS+%7C+YAGNI" alt="Typing Animation" />
-</p>
 <p align="center">
-  <i>Core technologies I use regularly:</i>
+  <a href="https://github.com/skunal012">GitHub</a> -
+  <a href="mailto:skunal012@gmail.com">Email</a> -
+  <a href="#-cat-etcsystem-release">About</a> -
+  <a href="#-cat-etcstackconf">Tech Stack</a> -
+  <a href="mailto:skunal012@gmail.com">Hire me.</a>
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Certified+Professional+Scrum+Developer+(PSD);Full-Stack+Developer+(.NET+Core+%7C+ASP.NET+Core+%7C+React);Dubai,+United+Arab+Emirates" alt="Typing SVG" />
+</p>
 
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=cs" width="50" alt="C#"/><br>
-        <b>C#</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="50" alt=".NET"/><br>
-        <b>ASP.NET Core</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/><br>
-        <b>React</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript"/><br>
-        <b>TypeScript</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/><br>
-        <b>JavaScript</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=graphql" width="50" alt="GraphQL"/><br>
-        <b>GraphQL</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=redux" width="50" alt="Redux"/><br>
-        <b>Redux</b>
-      </td>
-    </tr>
-  </table>
+-----------------------------------------------------------
+👨🏻‍💻 **About Me**<img src="https://webixnet.com/wp-content/uploads/2022/09/97639-coding.gif" width="300px" align="right" alt="Coding">
+✨ Full-Stack Developer | 5+ years building scalable backend and frontend systems<br>
+🌱 Core stack: **C#, .NET Core, ASP.NET Core, React.js, TypeScript**<br>
+💬 Focused on clean architecture, maintainable code, and Agile delivery<br>
+🤝 Open to **freelance projects** and **remote roles**<br>
+🚀 Available to build APIs, web apps, and full-stack business solutions<br>
+📫 How to reach me: **[skunal012@gmail.com](mailto:skunal012@gmail.com)**<br>
+🌐 Based in **Dubai, United Arab Emirates**<br>
 
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/><br>
-        <b>PostgreSQL</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/><br>
-        <b>MongoDB</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=azure" width="50" alt="Azure"/><br>
-        <b>Azure</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/><br>
-        <b>Git</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=githubactions" width="50" alt="GitHub Actions"/><br>
-        <b>GitHub Actions</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=jenkins" width="50" alt="Jenkins"/><br>
-        <b>Jenkins</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=jest" width="50" alt="Jest"/><br>
-        <b>Jest</b>
-      </td>
-    </tr>
-  </table>
+<b>🛠 Tech Stack/ Certifications</b><br><br>
+Languages: <img src="https://img.shields.io/badge/-C%23-68217A?logo=csharp&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat">&nbsp;<br>
+Frameworks and Libraries: <img src="https://img.shields.io/badge/-.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat">&nbsp;<br>
+Databases: <img src="https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat">&nbsp;<br>
+Tools and Platforms: <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat">&nbsp;<br>
 
-</div>
+## Certification Badges 🪶
+<p align="center">
+  <img src="https://img.shields.io/badge/Scrum.org-Professional%20Scrum%20Developer%20(PSD)-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="PSD" />
+</p>
 
-## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,graphql,redux,postgres,mongodb,azure,git,githubactions,jenkins,jest&perline=7" alt="Skill icons" />
+</p>
 
-<div align="center">
+<details>
+<summary><b>🐍 Contribution Snake</b></summary><br>
+<p align="center">
+  <img src="./output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+</details>
+
+<details>
+<summary><b>⚙️ GitHub Analytics</b></summary><br>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skunal012&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="streak stats"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=skunal012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="github stats"/>
-</div>
-
-<div align="center">
+</p>
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=skunal012&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="top languages"/>
-</div>
-
-<div align="center">
+</p>
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=skunal012&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="activity graph"/>
-</div>
+</p>
+</details>
 
-## 🔥 Recent Projects
+<details>
+<summary><b>🏆 Coding Activity</b></summary><br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skunal012&theme=radical" width="32%" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skunal012&theme=radical" width="32%" alt="most commit language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skunal012&theme=radical" width="32%" alt="profile stats"/>
+</p>
+</details>
 
-<div align="center">
-  <i>Projects will be added soon.</i>
-</div>
+<details>
+<summary><b>📚 Recent Projects/ Activity</b></summary><br>
 
-## 📧 Let's Connect
+✨ *Projects will be added soon.*
 
-<div align="center">
-  <a href="https://github.com/skunal012" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:skunal012@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
+</details>
 
-## 🏆 Coding Activity
+---
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skunal012&theme=radical" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skunal012&theme=radical" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skunal012&theme=radical" width="32%"/>
-</div>
+## `$ cat /etc/system-release`
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
+```
+Name:       Kunal
+Role:       Full-Stack Developer
+Cert:       Professional Scrum Developer (PSD)
+Experience: 5+ years
+Location:   Dubai, United Arab Emirates
+Status:     Open to freelance & remote roles
+```
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=skunal012&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</div>
+## `$ cat /etc/stack.conf`
 
-<div align="center">
-  <h3>💻 Happy Coding!</h3>
-</div>
+```
+Backend:    C#, .NET Core, ASP.NET Core, GraphQL
+Frontend:   React, Redux, TypeScript
+Databases:  MS SQL Server, PostgreSQL, MongoDB
+DevOps:     Azure DevOps, GitHub Actions, Jenkins
+Principles: SOLID | DDD | DRY | KISS | YAGNI
+```
+
+## `$ cat /etc/contact.conf`
+
+<a href="https://github.com/skunal012"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:skunal012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+---
+
+```
+$ uptime
+Full-Stack Developer. Clean code, shipped on time. Happy Coding! 💻
+```
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=skunal012&style=social" alt="Profile views" />
+  <a href="https://github.com/skunal012?tab=followers"><img src="https://img.shields.io/github/followers/skunal012?style=social" alt="Followers"></a>
+  <a href="https://github.com/skunal012?tab=repositories"><img src="https://img.shields.io/github/stars/skunal012?label=Star%20Gazers&style=social" alt="Stars"></a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</p>
+
+<p align="center">
+  Do you want to contact me for collaboration opportunities? ⟶ <a href="mailto:skunal012@gmail.com">skunal012@gmail.com</a><br>
+  <b>Show some ❤️ by starring some of the repositories!</b>
+</p>
